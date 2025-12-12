@@ -1,0 +1,7 @@
+{
+  "name": "GRASA CLUB",
+  "description": "Sistema de Gestión de Asociaciones - Cannabis Club Management",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
